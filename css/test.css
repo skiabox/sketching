@@ -1,3 +1,14 @@
+/* A bunch of Sass variables */
+/* Some CSS using the Sass variables */
+body {
+  color: #222222;
+  font-family: verdana, sans-serif;
+  font-size: 1em; }
 
+h1, h2 {
+  font-family: georgia, serif; }
+
+h2 {
+  font-size: 2em; }
 
 /*# sourceMappingURL=test.css.map */
